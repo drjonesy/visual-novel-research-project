@@ -34,6 +34,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
 - [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
 
+<!--
 #### Video Lesson Tutorials (Lesson 2)
 
 1. [Project Tutorial Overview](https://www.youtube.com/watch?v=s6cOdjzLfGY)
@@ -41,6 +42,8 @@ In this challenge you will use the skills you've learned so far to build a bug c
 3. [Events Blocks and the Change Block](https://www.youtube.com/watch?v=VWAGlFRRRZk)
 4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so)
 5. [Logical Operators and Limiting The Count](https://www.youtube.com/watch?v=naYjb5rzoAk)
+
+-->
 
 ## Lesson 3
 
@@ -55,6 +58,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 - [ ] Sprite Lab - Lesson 3 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 3 Videos <!-- [Lesson 3 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
 
+<!--
 #### Video Lesson Tutorials (Lesson 3)
 
 1. [Lesson Overview](https://www.youtube.com/watch?v=oS4WiaM-AuI)
@@ -65,6 +69,8 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 6. [Scene Game Over](https://www.youtube.com/watch?v=LldZGxpd4yk)
 7. [Scene 3](https://www.youtube.com/watch?v=k5TMO6dbInY)
 8. [Yes and No Events](https://www.youtube.com/watch?v=R9QQfd5UTlY)
+
+-->
 
 ## Lesson 4
 
