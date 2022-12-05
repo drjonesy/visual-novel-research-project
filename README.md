@@ -14,7 +14,7 @@ The links to the Pre-and Post-Test will be made available at the start of each d
 
 - [x] Pre-Test
 - [x] Post-Test
-- [x] [Lesson 1 Videos]("https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq")
+- [x] [Lesson 1 Videos](https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq)
 
 ## Lesson 2
 
