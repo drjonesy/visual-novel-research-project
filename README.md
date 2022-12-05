@@ -17,8 +17,8 @@ In this lesson you will learn about **variables**, how to use a **prompt** block
 - [x] Pre-Test
 - [x] Post-Test
 
-- [Sprite Lab - Lesson 1 Tutorial (complete)](https://studio.code.org/projects/spritelab/RnoUpcvWz5P61wwiSE6zifnlrklaAVF3TQ4w7x9T-0g)
-- [Sprite Lab - Lesson 1 Challenge (complete)](https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q)
+- [x] [Sprite Lab - Lesson 1 Tutorial (complete)](https://studio.code.org/projects/spritelab/RnoUpcvWz5P61wwiSE6zifnlrklaAVF3TQ4w7x9T-0g)
+- [x] [Sprite Lab - Lesson 1 Challenge (complete)](https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q)
 
 - [x] [Lesson 1 Videos](https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq)
 
