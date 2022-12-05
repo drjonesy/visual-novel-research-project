@@ -87,4 +87,12 @@ For the final challenge, you get into teams of two or more and create your own i
 
 # Share Google Drive with custom Costume Files
 
-[Google Drive - Custom Costume File](https://tinyurl.com/lesson3tutfiles) - https://tinyurl.com/lesson3tutfiles
+<table>
+<tr>
+    <td><img src="./google-drive-logo.png" height="30" /></td>
+    <td><a href="https://tinyurl.com/lesson3tutfiles">Google Drive - Custom Costume Files</a></td>
+</tr>
+<tr>
+    <td colspan="2">https://tinyurl.com/lesson3tutfiles</td>
+</tr>
+</table>
