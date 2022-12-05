@@ -14,20 +14,24 @@ The links to the Pre-and Post-Test will be made available at the start of each d
 
 In this lesson you will learn about **variables**, how to use a **prompt** block to ask a question, and how to have a character say the text typed in.
 
+For the challenge, you will make it look like two sprites are talking to each other.
+
 - [x] Pre-Test
 - [x] Post-Test
-
 - [x] [Sprite Lab - Lesson 1 Tutorial (complete)](https://studio.code.org/projects/spritelab/RnoUpcvWz5P61wwiSE6zifnlrklaAVF3TQ4w7x9T-0g)
 - [x] [Sprite Lab - Lesson 1 Challenge (complete)](https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q)
-
 - [x] [Lesson 1 Videos](https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq)
 
 ## Lesson 2
 
-In lesson 2, you will learn how to use events to change backgrounds using buttons. You learn how to keep count
+In lesson 2, you will learn how to use events to change backgrounds using buttons. You learn how to assign a number to variable and change the value of it by using buttons. You will learn about IF Blocks which allow you to make different choices and you will be introduced to something called logical operators.
+
+In this challenge you will use the skills you've learned so far to build a bug catcher game that changes backgrounds when a certain number of bugs are caught.
 
 - [ ] Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link) -->
 - [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link) -->
+- [x] [Sprite Lab - Lesson 2 Tutorial (complete)](https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs)
+- [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
 
 #### Video Lesson Tutorials (Lesson 2)
@@ -40,8 +44,15 @@ In lesson 2, you will learn how to use events to change backgrounds using button
 
 ## Lesson 3
 
+In lesson 3, you will learn about functions, nested functions, the difference between a generic sprite and named sprite, and we will review how to remove a sprite. For this lesson's project we will create an interactive story called, "A SEA STORY".
+
+Lesson 3 contains two challenges. In the first challenge you need to clean up the code from "The Bug Catcher" challenge and place it into functions.
+In challenge 2, you will finish this lesson's project "A SEA STORY" by adding two more scenes.
+
 - [ ] Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdGdX1UVTqyYL9-RxFZAPTH4IMCQT8I_2lSJCi4YCfBt-4bKg/viewform?usp=share_link) -->
 - [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link) -->
+- [x] [Sprite Lab - Lesson 3 Tutorial (complete)](https://studio.code.org/projects/spritelab/3_51jzctCKWzSgUDtbsGkIaIqH1w2fN69a0n5KbQio0)
+- [ ] Sprite Lab - Lesson 3 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 3 Videos <!-- [Lesson 3 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
 
 #### Video Lesson Tutorials (Lesson 3)
@@ -57,10 +68,11 @@ In lesson 2, you will learn how to use events to change backgrounds using button
 
 ## Lesson 4
 
-- [ ] Pre-Test <!-- [Pre-Test]() -->
-- [ ] Post-Test <!-- [Post-Test]() -->
-- [ ] Lesson 4 Videos <!-- [Lesson 4 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
+In lesson 4, we are going to learn about storyboarding and how it can help us when we want to design a visual novel, a regular story, a movie, or even a game.
+In this project, we will be using a sheet of paper to create an imaginary story called a "The Lost Bees".
 
-#### Video Lesson Tutorials (Lesson 4)
+For the final challenge, you get into teams of two or more and create your own interactive visual story in Sprite Lab. You will first storyboard it and then you will create it in Sprite Lab.
 
-1. []()
+- [ ] Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link) -->
+- [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link) -->
+- [ ] Lesson 4 Video <!-- [Lesson 4 Video](https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi) -->
