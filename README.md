@@ -10,5 +10,4 @@ The links to the Pre-and Post-Test will be made available at the start of each d
 
 - [x] Pre-Test
 - [x] Post-Test
-- [ ] Lesson 1 Video Tutorial
-- [ ] Lesson 1 Video Challenge (Solution)
+- [x] [Lesson 1 Videos](https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq)
