@@ -24,7 +24,7 @@ The links to the Pre-and Post-Test will be made available at the start of each d
 
 #### Video Lesson Tutorials (Lesson 2)
 
-1. [Project Tutorial Overview](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=1)
+1. [Project Tutorial Overview](https://www.youtube.com/watch?v=s6cOdjzLfGY)
 2. [Creating the Scene and Making Custom Costumes](https://www.youtube.com/watch?v=SAYqDQyL8hk&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=2)
 3. [Events Blocks and the Change Block](https://www.youtube.com/watch?v=VWAGlFRRRZk&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=3)
 4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=4)
