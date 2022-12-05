@@ -6,6 +6,8 @@ This page will contain the links to the Pre-and Post-Tests for each lesson. The 
 
 The links to the Pre-and Post-Test will be made available at the start of each day and then the links will no longer work after the lesson.
 
+![](./lesson-breakdown-in-stages.png)
+
 ## Lesson 1
 
 - [x] Pre-Test
