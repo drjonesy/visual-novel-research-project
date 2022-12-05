@@ -8,7 +8,7 @@ The links to the Pre-and Post-Test will be made available at the start of each d
 
 ## Lesson 1
 
-- [ ] Pre-Test
-- [ ] Post-Test
+- [x] Pre-Test
+- [x] Post-Test
 - [ ] Lesson 1 Video Tutorial
 - [ ] Lesson 1 Video Challenge (Solution)
