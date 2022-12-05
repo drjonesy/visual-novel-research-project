@@ -1,5 +1,7 @@
 # Research Project
 
+![](./learning-to-create-a-visual-novel-in-sprite-lab.png)
+
 Learning to create a visual novel using Sprite Lab on Code.org
 
 This page will contain the links to the Pre-and Post-Tests for each lesson. The videos for each lesson and challenge will be made available at the end of each lesson.
