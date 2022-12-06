@@ -36,7 +36,6 @@ In this challenge you will use the skills you've learned so far to build a bug c
 - [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
 
-<!--
 #### Video Lesson Tutorials (Lesson 2)
 
 1. [Project Tutorial Overview](https://www.youtube.com/watch?v=s6cOdjzLfGY)
@@ -44,8 +43,6 @@ In this challenge you will use the skills you've learned so far to build a bug c
 3. [Events Blocks and the Change Block](https://www.youtube.com/watch?v=VWAGlFRRRZk)
 4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so)
 5. [Logical Operators and Limiting The Count](https://www.youtube.com/watch?v=naYjb5rzoAk)
-
--->
 
 ## Lesson 3
 
@@ -85,7 +82,7 @@ For the final challenge, you get into teams of two or more and create your own i
 - [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link) -->
 - [ ] Lesson 4 Video <!-- [Lesson 4 Video](https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi) -->
 
-# Share Google Drive with custom Costume Files
+# Share Google Drive with Custom Costume Files
 
 <table>
 <tr>
