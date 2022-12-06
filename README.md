@@ -36,7 +36,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
 - [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
 
-#### Video Lesson Tutorials (Lesson 2)
+#### Lesson 2 Video Tutorials
 
 1. [Project Tutorial Overview](https://www.youtube.com/watch?v=s6cOdjzLfGY)
 2. [Creating the Scene and Making Custom Costumes](https://www.youtube.com/watch?v=SAYqDQyL8hk)
@@ -58,7 +58,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 - [ ] Lesson 3 Videos <!-- [Lesson 3 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
 
 <!--
-#### Video Lesson Tutorials (Lesson 3)
+#### Lesson 3 Video Tutorials
 
 1. [Lesson Overview](https://www.youtube.com/watch?v=oS4WiaM-AuI)
 2. [Scene 1 Design](https://www.youtube.com/watch?v=a3Kd2wCmpLY)
