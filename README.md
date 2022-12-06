@@ -30,7 +30,7 @@ In lesson 2, you will learn how to use events to change backgrounds using button
 
 In this challenge you will use the skills you've learned so far to build a bug catcher game that changes backgrounds when a certain number of bugs are caught.
 
-- [ ] Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link) -->
+- [ ] [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link)
 - [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link) -->
 - [x] [Sprite Lab - Lesson 2 Tutorial (complete)](https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs)
 - [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
