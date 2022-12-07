@@ -45,7 +45,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
 3. [Events Blocks and the Change Block](https://www.youtube.com/watch?v=VWAGlFRRRZk)
 4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so)
 5. [Logical Operators and Limiting The Count](https://www.youtube.com/watch?v=naYjb5rzoAk)
-6. [Lesson 2 Challenge Preview](https://www.youtube.com/watch?v=K6gqOsmdOTg&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=6)
+<!-- 6. [Lesson 2 Challenge Preview](https://www.youtube.com/watch?v=K6gqOsmdOTg&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=6) -->
 
 ## Lesson 3
 
