@@ -33,6 +33,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
 - [x] [Pre-Test]<!-- (https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link) -->
 - [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link) -->
 - [x] [Sprite Lab - Lesson 2 Tutorial (complete)](https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs)
+- [ ] [Sprite Lab - Lesson 2 Challenge (Starting Template)](https://studio.code.org/projects/spritelab/uBPwoCHrA-uucpmj4vL-F9KosT2z2LQtYWG32JBTjxQ)
 - [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
 
