@@ -139,14 +139,14 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdGdX1UVTqyYL9-RxFZAPTH4IMCQT8I_2lSJCi4YCfBt-4bKg/viewform?usp=share_link) --></td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td>Pre-Test</td>
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdGdX1UVTqyYL9-RxFZAPTH4IMCQT8I_2lSJCi4YCfBt-4bKg/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link) --></td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
-    </tr>
+        <td>Post-Test</td>
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link"><img src="./images/lock-bottom-shadow.png" height="35" /></a></td>
+    </tr> -->
 </table>
 
 #### In-Class Project and Challenges
