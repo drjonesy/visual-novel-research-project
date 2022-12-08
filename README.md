@@ -18,11 +18,45 @@ In this lesson you will learn about **variables**, how to use a **prompt** block
 
 For the challenge, you will make it look like two sprites are talking to each other.
 
-- [x] Pre-Test
-- [x] Post-Test
-- [x] [Sprite Lab - Lesson 1 Tutorial (complete)](https://studio.code.org/projects/spritelab/RnoUpcvWz5P61wwiSE6zifnlrklaAVF3TQ4w7x9T-0g)
-- [x] [Sprite Lab - Lesson 1 Challenge (complete)](https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q)
-- [x] [Lesson 1 Videos](https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq)
+#### Tests
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
+        <td>Lesson 1 - Pre-Test</td>
+        <td>Closed</td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
+        <td>Lesson 1 - Post-Test</td>
+        <td>Closed</td>
+    </tr>
+</table>
+
+#### In-Class Project and Challenges
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>In-Class Lesson Project</td>
+        <td><a href="https://studio.code.org/projects/spritelab/RnoUpcvWz5P61wwiSE6zifnlrklaAVF3TQ4w7x9T-0g"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>Completed Challenge</td>
+        <td><a href="https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+    </tr>
+</table>
+
+#### Videos
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>Lesson 1 All Video Tutorials</td>
+        <td><a href="https://www.youtube.com/watch?v=tOw0pPCpZzI&list=PLyCwPGjh8kDzNSHZnwvwYUVpqtIAmDtRq"><img src="./images/button-youtube-link.png" height="40"/></a></td>
+    </tr>
+</table>
 
 ## Lesson 2
 
@@ -30,19 +64,48 @@ In lesson 2, you will learn how to use events to change backgrounds using button
 
 In this challenge you will use the skills you've learned so far to build a bug catcher game that changes backgrounds when a certain number of bugs are caught.
 
-- [x] Pre-Test <!--[Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link) -->
-- [x] Post-Test <!--[Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link) -->
-- [x] [Sprite Lab - Lesson 2 (completed project)](https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs)
-- [ ] Sprite Lab - Lesson 2 Challenge (completed) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
-- [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
+#### Tests
 
-#### Lesson 2 Challenge
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
+        <td>Lesson 2 - Pre-Test <!-- https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link --></td>
+        <td>Closed</td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
+        <td>Lesson 2 - Post-Test <!-- https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link --></td>
+        <td>Closed</td>
+    </tr>
+</table>
 
-- [Sprite Lab - Lesson 2 Challenge - STARTING TEMPLATE](https://studio.code.org/projects/spritelab/uBPwoCHrA-uucpmj4vL-F9KosT2z2LQtYWG32JBTjxQ)
+#### In-Class Project and Challenges
 
-Please click the link below to show the lesson 2 challenge required tasks. These are the tasks that need to be completed to finish the challenge and get it working.
-
-> [Lesson 2 Challenge Tasks](./lesson-2-challenge-tasks.pdf)
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>In-Class Lesson Project</td>
+        <td><a href="https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+    </tr>
+     <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>Starting Template</td>
+        <td><a href="https://studio.code.org/projects/spritelab/uBPwoCHrA-uucpmj4vL-F9KosT2z2LQtYWG32JBTjxQ"><img src="./images/button-open-pointer.png" height="40"/></></td>
+    </tr>
+    <tr>
+    <td colspan=3>You can use link below to open a copy of the Starting Template for the Lesson 2 Challenge and Remix it making it your own. Click on the Open button.</td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>Starting Template - Tasks</td>
+        <td><a href="/lesson-2-challenge-tasks.pdf"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Completed Project</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+</table>
 
 #### Lesson 2 Video Tutorials
 
@@ -52,6 +115,18 @@ Please click the link below to show the lesson 2 challenge required tasks. These
 4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so)
 5. [Logical Operators and Limiting The Count](https://www.youtube.com/watch?v=naYjb5rzoAk)
 
+#### Lesson 2 Video Tutorials and Challenge Videos
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Lesson 2 All Video Tutorials</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="40"/></td>
+    </tr>
+</table>
+
+<!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
+
 ## Lesson 3
 
 In lesson 3, you will learn about functions, nested functions, the difference between a generic sprite and named sprite, and we will review how to remove a sprite. For this lesson's project we will create an interactive story called, "A SEA STORY".
@@ -59,11 +134,40 @@ In lesson 3, you will learn about functions, nested functions, the difference be
 Lesson 3 contains two challenges. In the first challenge you need to clean up the code from "The Bug Catcher" challenge and place it into functions.
 In challenge 2, you will finish this lesson's project "A SEA STORY" by adding two more scenes.
 
-- [ ] Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdGdX1UVTqyYL9-RxFZAPTH4IMCQT8I_2lSJCi4YCfBt-4bKg/viewform?usp=share_link) -->
-- [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link) -->
-- [x] [Sprite Lab - Lesson 3 Tutorial (complete)](https://studio.code.org/projects/spritelab/3_51jzctCKWzSgUDtbsGkIaIqH1w2fN69a0n5KbQio0)
-- [ ] Sprite Lab - Lesson 3 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
-- [ ] Lesson 3 Videos <!-- [Lesson 3 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
+#### Tests
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdGdX1UVTqyYL9-RxFZAPTH4IMCQT8I_2lSJCi4YCfBt-4bKg/viewform?usp=share_link) --></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link) --></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+</table>
+
+#### In-Class Project and Challenges
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>In-Class Lesson Project</td>
+        <td><a href="https://studio.code.org/projects/spritelab/3_51jzctCKWzSgUDtbsGkIaIqH1w2fN69a0n5KbQio0"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Project 1 - The Bug Catcher using Functions - Completed</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Project 2 - A SEA STORY - Completed</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+</table>
 
 <!--
 #### Lesson 3 Video Tutorials
@@ -79,6 +183,18 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 
 -->
 
+#### Lesson 3 Video Tutorials and Challenge Videos
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Lesson 3 All Video Tutorials</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="40"/></td>
+    </tr>
+</table>
+
+<!-- [Lesson 3 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
+
 ## Lesson 4
 
 In lesson 4, we are going to learn about storyboarding and how it can help us when we want to design a visual novel, a regular story, a movie, or even a game.
@@ -86,9 +202,36 @@ In this project, we will be using a sheet of paper to create an imaginary story 
 
 For the final challenge, you get into teams of two or more and create your own interactive visual story in Sprite Lab. You will first storyboard it and then you will create it in Sprite Lab.
 
-- [ ] Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link) -->
-- [ ] Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link) -->
-- [ ] Lesson 4 Video <!-- [Lesson 4 Video](https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi) -->
+#### Tests
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link) --></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link) --></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+    </tr>
+</table>
+
+#### In-Class Project and Challenges
+
+For lesson 4's in-class project we are going to take out a piece of paper and learn about storyboarding.
+
+#### Lesson 4 Video Tutorials
+
+<table>
+    <tr>
+        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td>Lesson 4 All Video Tutorials</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="40"/></td>
+    </tr>
+</table>
+
+<!-- https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi -->
 
 # Share Google Drive with Custom Costume Files
 
