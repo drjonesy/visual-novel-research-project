@@ -30,13 +30,19 @@ In lesson 2, you will learn how to use events to change backgrounds using button
 
 In this challenge you will use the skills you've learned so far to build a bug catcher game that changes backgrounds when a certain number of bugs are caught.
 
-- [x] [Pre-Test]<!-- (https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link) -->
-- [ ] [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link)
-- [x] [Sprite Lab - Lesson 2 Tutorial (complete)](https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs)
-- [ ] [Sprite Lab - Lesson 2 Challenge (Starting Template)](https://studio.code.org/projects/spritelab/uBPwoCHrA-uucpmj4vL-F9KosT2z2LQtYWG32JBTjxQ)
-- [ ] [Sprite Lab - Lesson 2 Challenge Tasks](./lesson-2-challenge-tasks.pdf)
-- [ ] Sprite Lab - Lesson 2 Challenge (complete) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
+- [x] Pre-Test <!--[Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link) -->
+- [x] Post-Test <!--[Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link) -->
+- [x] [Sprite Lab - Lesson 2 (completed project)](https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs)
+- [ ] Sprite Lab - Lesson 2 Challenge (completed) <!-- [Sprite Lab - Lesson 2 Challenge (complete)]() -->
 - [ ] Lesson 2 Videos <!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
+
+#### Lesson 2 Challenge
+
+- [Sprite Lab - Lesson 2 Challenge - STARTING TEMPLATE](https://studio.code.org/projects/spritelab/uBPwoCHrA-uucpmj4vL-F9KosT2z2LQtYWG32JBTjxQ)
+
+Please click the link below to show the lesson 2 challenge required tasks. These are the tasks that need to be completed to finish the challenge and get it working.
+
+> [Lesson 2 Challenge Tasks](./lesson-2-challenge-tasks.pdf)
 
 #### Lesson 2 Video Tutorials
 
@@ -45,7 +51,6 @@ In this challenge you will use the skills you've learned so far to build a bug c
 3. [Events Blocks and the Change Block](https://www.youtube.com/watch?v=VWAGlFRRRZk)
 4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so)
 5. [Logical Operators and Limiting The Count](https://www.youtube.com/watch?v=naYjb5rzoAk)
-<!-- 6. [Lesson 2 Challenge Preview](https://www.youtube.com/watch?v=K6gqOsmdOTg&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd&index=6) -->
 
 ## Lesson 3
 
