@@ -121,11 +121,9 @@ In this challenge you will use the skills you've learned so far to build a bug c
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
         <td>Lesson 2 All Video Tutorials</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="40"/></td>
+        <td><a href="https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
 </table>
-
-<!-- [Lesson 2 Videos](https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd) -->
 
 ## Lesson 3
 
