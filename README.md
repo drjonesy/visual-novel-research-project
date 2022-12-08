@@ -154,9 +154,16 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Lesson Project</td>
+        <td>In-Class Starting Template</td>
+        <td><a href="https://studio.code.org/projects/spritelab/WiGvcPw8OnX6L5IuHibrCWKP6Ekr2saV3sRehTFXGps"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+    </tr>
+    <!-- 
+    <tr>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>In-Class Lesson Project (completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/3_51jzctCKWzSgUDtbsGkIaIqH1w2fN69a0n5KbQio0"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
+    -->
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
         <td>Project 1 - The Bug Catcher using Functions - Completed</td>
@@ -169,7 +176,6 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     </tr>
 </table>
 
-<!--
 #### Lesson 3 Video Tutorials
 
 1. [Lesson Overview](https://www.youtube.com/watch?v=oS4WiaM-AuI)
@@ -180,8 +186,6 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 6. [Scene Game Over](https://www.youtube.com/watch?v=LldZGxpd4yk)
 7. [Scene 3](https://www.youtube.com/watch?v=k5TMO6dbInY)
 8. [Yes and No Events](https://www.youtube.com/watch?v=R9QQfd5UTlY)
-
--->
 
 #### Lesson 3 Video Tutorials and Challenge Videos
 
