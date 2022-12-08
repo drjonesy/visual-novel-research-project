@@ -103,17 +103,9 @@ In this challenge you will use the skills you've learned so far to build a bug c
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
         <td>Completed Project</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/button-open-pointer.png" height="35" /></td>
     </tr>
 </table>
-
-#### Lesson 2 Video Tutorials
-
-1. [Project Tutorial Overview](https://www.youtube.com/watch?v=s6cOdjzLfGY)
-2. [Creating the Scene and Making Custom Costumes](https://www.youtube.com/watch?v=SAYqDQyL8hk)
-3. [Events Blocks and the Change Block](https://www.youtube.com/watch?v=VWAGlFRRRZk)
-4. [IF Blocks and Backgrounds](https://www.youtube.com/watch?v=UZ07BGof-so)
-5. [Logical Operators and Limiting The Count](https://www.youtube.com/watch?v=naYjb5rzoAk)
 
 #### Lesson 2 Video Tutorials and Challenge Videos
 
@@ -121,7 +113,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
         <td>Lesson 2 All Video Tutorials</td>
-        <td><a href="https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+        <td><a href="https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd"><img src="./images/button-youtube-link.png" height="40"/></a></td>
     </tr>
 </table>
 
@@ -138,7 +130,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdGdX1UVTqyYL9-RxFZAPTH4IMCQT8I_2lSJCi4YCfBt-4bKg/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <!-- <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
