@@ -144,9 +144,10 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Starting Template</td>
-        <td><a href="https://studio.code.org/projects/spritelab/WiGvcPw8OnX6L5IuHibrCWKP6Ekr2saV3sRehTFXGps"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+        <td>In-Class Starting Template V2</td>
+        <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
+    <!-- https://studio.code.org/projects/spritelab/WiGvcPw8OnX6L5IuHibrCWKP6Ekr2saV3sRehTFXGps -->
     <!-- 
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
