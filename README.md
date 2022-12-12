@@ -133,7 +133,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <tr>
-        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
