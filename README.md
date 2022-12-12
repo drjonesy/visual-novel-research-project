@@ -135,7 +135,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
 </table>
 
