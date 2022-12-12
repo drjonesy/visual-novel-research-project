@@ -101,7 +101,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
         <td><a href="/lesson-2-challenge-tasks.pdf"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Completed Project</td>
         <td><img src="./images/button-open-pointer.png" height="35" /></td>
     </tr>
@@ -111,7 +111,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
 
 <table>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Lesson 2 All Video Tutorials</td>
         <td><a href="https://www.youtube.com/watch?v=s6cOdjzLfGY&list=PLyCwPGjh8kDzFuT1NtSF9BzClOxf2oUmd"><img src="./images/button-youtube-link.png" height="40"/></a></td>
     </tr>
@@ -128,12 +128,12 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 
 <table>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <tr>
-        <td><img src="./images/button-open-pointer.png.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Post-Test</td>
         <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
