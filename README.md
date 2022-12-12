@@ -132,11 +132,11 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
         <td>Pre-Test</td>
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
-    <!-- <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+    <tr>
+        <td><img src="./images/button-open-pointer.png.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link"><img src="./images/lock-bottom-shadow.png" height="35" /></a></td>
-    </tr> -->
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfS864OE8afnw_cGRrNPs_5XKt-z0FJ1pILo2_ROyOgOA8XCQ/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+    </tr>
 </table>
 
 #### In-Class Project and Challenges
@@ -144,17 +144,9 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Starting Template V2</td>
+        <td>In-Class Project (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
-    <!-- https://studio.code.org/projects/spritelab/WiGvcPw8OnX6L5IuHibrCWKP6Ekr2saV3sRehTFXGps -->
-    <!-- 
-    <tr>
-        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Lesson Project (completed)</td>
-        <td><a href="https://studio.code.org/projects/spritelab/3_51jzctCKWzSgUDtbsGkIaIqH1w2fN69a0n5KbQio0"><img src="./images/button-open-pointer.png" height="40"/></a></td>
-    </tr>
-    -->
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
         <td>Project 1 - The Bug Catcher using Functions - Completed</td>
