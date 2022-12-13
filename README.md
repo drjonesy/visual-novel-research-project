@@ -155,7 +155,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 
 </table>
 
-#### Lesson 3 Video Tutorials and Challenge Videos
+<!-- #### Lesson 3 Video Tutorials and Challenge Videos
 
 <table>
     <tr>
@@ -163,7 +163,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
         <td><a href="https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf">Lesson 3 All Video Tutorials</a></td>
         <td><img src="./images/button-youtube-link.png" height="40"/></td>
     </tr>
-</table>
+</table> -->
 
 ## Lesson 4
 
