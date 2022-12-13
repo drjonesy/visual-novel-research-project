@@ -149,8 +149,8 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Project 2 - The Bug Catcher using Functions - Completed</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td>Project 2 - The Bug Catcher using Functions - Starting Template</td>
+        <td><a href="https://studio.code.org/projects/spritelab/lcKXsy0tWfOYngva-yVD_j2vyGywydXA9axyBG2Ilq0/view"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
 
 </table>
