@@ -155,28 +155,15 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 
 </table>
 
-#### Lesson 3 Video Tutorials
-
-1. [Lesson Overview](https://www.youtube.com/watch?v=oS4WiaM-AuI)
-2. [Scene 1 Design](https://www.youtube.com/watch?v=a3Kd2wCmpLY)
-3. [Scene 1 Function](https://www.youtube.com/watch?v=MMtju6AyW1M)
-4. [Nested Functions](https://www.youtube.com/watch?v=qe65Nin43ig)
-5. [Named Sprites](https://www.youtube.com/watch?v=qaD2k9cC6UM)
-6. [Scene Game Over](https://www.youtube.com/watch?v=LldZGxpd4yk)
-7. [Scene 3](https://www.youtube.com/watch?v=k5TMO6dbInY)
-8. [Yes and No Events](https://www.youtube.com/watch?v=R9QQfd5UTlY)
-
 #### Lesson 3 Video Tutorials and Challenge Videos
 
 <table>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Lesson 3 All Video Tutorials</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="40"/></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td><a href="https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf">Lesson 3 All Video Tutorials</a></td>
+        <td><img src="./images/button-youtube-link.png" height="40"/></td>
     </tr>
 </table>
-
-<!-- [Lesson 3 Videos](https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf) -->
 
 ## Lesson 4
 
