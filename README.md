@@ -144,19 +144,15 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Project (Completed)</td>
+        <td>Project 1 - A SEA STORY - Completed</td>
         <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Project 1 - The Bug Catcher using Functions - Completed</td>
+        <td>Project 2 - The Bug Catcher using Functions - Completed</td>
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
-    <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Project 2 - A SEA STORY - Completed</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
-    </tr>
+
 </table>
 
 #### Lesson 3 Video Tutorials
