@@ -178,12 +178,12 @@ For the final challenge, you get into teams of two or more and create your own i
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <tr>
-        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
-        <td>Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link) --></td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td>Post-Test</td>
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
 </table>
 
