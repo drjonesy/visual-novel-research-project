@@ -145,10 +145,10 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Project 1 - A SEA STORY - Completed</td>
-        <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="40"/></a></td>
+        <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="35"/></a></td>
     </tr>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Project 2 - The Bug Catcher using Functions - Starting Template</td>
         <td><a href="https://studio.code.org/projects/spritelab/lcKXsy0tWfOYngva-yVD_j2vyGywydXA9axyBG2Ilq0/view"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
@@ -176,12 +176,12 @@ For the final challenge, you get into teams of two or more and create your own i
 
 <table>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Pre-Test</td>
         <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test <!-- [Post-Test](https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link) --></td>
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
