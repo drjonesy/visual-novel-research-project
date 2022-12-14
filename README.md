@@ -24,12 +24,12 @@ For the challenge, you will make it look like two sprites are talking to each ot
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
 </table>
 
@@ -43,7 +43,7 @@ For the challenge, you will make it look like two sprites are talking to each ot
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Completed Challenge</td>
+        <td>Conversation Challenge</td>
         <td><a href="https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
 </table>
@@ -70,12 +70,12 @@ In this challenge you will use the skills you've learned so far to build a bug c
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
 </table>
 
@@ -87,23 +87,10 @@ In this challenge you will use the skills you've learned so far to build a bug c
         <td>In-Class Lesson Project</td>
         <td><a href="https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
-     <tr>
-        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Starting Template</td>
-        <td><a href="https://studio.code.org/projects/spritelab/uBPwoCHrA-uucpmj4vL-F9KosT2z2LQtYWG32JBTjxQ"><img src="./images/button-open-pointer.png" height="40"/></></td>
-    </tr>
-    <tr>
-    <td colspan=3>You can use link below to open a copy of the Starting Template for the Lesson 2 Challenge and Remix it making it your own. Click on the Open button.</td>
-    </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Starting Template - Tasks</td>
-        <td><a href="/lesson-2-challenge-tasks.pdf"><img src="./images/button-open-pointer.png" height="40"/></a></td>
-    </tr>
-    <tr>
-        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Completed Project</td>
-        <td><img src="./images/button-open-pointer.png" height="35" /></td>
+        <td>Challenge - The Bug Catcher</td>
+        <td><a href="https://studio.code.org/projects/spritelab/Fe_7R84hkN-Xu00TuW6d_a8LLK4t2QykHiDl47zlV0I"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
 </table>
 
@@ -130,12 +117,12 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
 </table>
 
@@ -149,8 +136,8 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Project 2 - The Bug Catcher using Functions - Starting Template</td>
-        <td><a href="https://studio.code.org/projects/spritelab/lcKXsy0tWfOYngva-yVD_j2vyGywydXA9axyBG2Ilq0/view"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td>Project 2 - The Bug Catcher - Using Functions - Completed</td>
+        <td><a href="https://studio.code.org/projects/spritelab/8mj4cZB7E3O7wA7SBVCS3ZunDrUvtcrTtycRsn9VtiE"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
 
 </table>
@@ -178,12 +165,12 @@ For the final challenge, you get into teams of two or more and create your own i
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
     </tr>
 </table>
 
@@ -200,8 +187,6 @@ For lesson 4's in-class project we are going to take out a piece of paper and le
         <td><a href="https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi"><img src="./images/button-youtube-link.png" height="40"/></a></td>
     </tr>
 </table>
-
-<!--  -->
 
 # Share Google Drive with Custom Costume Files
 
