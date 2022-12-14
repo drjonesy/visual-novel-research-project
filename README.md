@@ -24,12 +24,12 @@ For the challenge, you will make it look like two sprites are talking to each ot
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
 </table>
 
@@ -70,12 +70,12 @@ In this challenge you will use the skills you've learned so far to build a bug c
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
 </table>
 
@@ -90,7 +90,7 @@ In this challenge you will use the skills you've learned so far to build a bug c
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Challenge - The Bug Catcher</td>
-        <td><a href="https://studio.code.org/projects/spritelab/Fe_7R84hkN-Xu00TuW6d_a8LLK4t2QykHiDl47zlV0I"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td><a href="https://studio.code.org/projects/spritelab/Fe_7R84hkN-Xu00TuW6d_a8LLK4t2QykHiDl47zlV0I"><img src="./images/button-open-pointer.png" height="40" /></a></td>
     </tr>
 </table>
 
@@ -117,12 +117,12 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
 </table>
 
@@ -132,12 +132,12 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Project 1 - A SEA STORY - Completed</td>
-        <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="35"/></a></td>
+        <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Project 2 - The Bug Catcher - Using Functions - Completed</td>
-        <td><a href="https://studio.code.org/projects/spritelab/8mj4cZB7E3O7wA7SBVCS3ZunDrUvtcrTtycRsn9VtiE"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td><a href="https://studio.code.org/projects/spritelab/8mj4cZB7E3O7wA7SBVCS3ZunDrUvtcrTtycRsn9VtiE"><img src="./images/button-open-pointer.png" height="40" /></a></td>
     </tr>
 
 </table>
@@ -165,12 +165,12 @@ For the final challenge, you get into teams of two or more and create your own i
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><img src="./images/lock-button-shadow.png" height="35" /></td>
+        <td><img src="./images/lock-button-shadow.png" height="40" /></td>
     </tr>
 </table>
 
