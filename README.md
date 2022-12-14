@@ -155,7 +155,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 
 </table>
 
-<!-- #### Lesson 3 Video Tutorials and Challenge Videos
+#### Lesson 3 Video Tutorials and Challenge Videos
 
 <table>
     <tr>
@@ -163,7 +163,7 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
         <td><a href="https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf">Lesson 3 All Video Tutorials</a></td>
         <td><img src="./images/button-youtube-link.png" height="40"/></td>
     </tr>
-</table> -->
+</table>
 
 ## Lesson 4
 
@@ -195,13 +195,13 @@ For lesson 4's in-class project we are going to take out a piece of paper and le
 
 <table>
     <tr>
-        <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
         <td>Lesson 4 All Video Tutorials</td>
-        <td><img src="./images/lock-bottom-shadow.png" height="40"/></td>
+        <td><a href="https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi"><img src="./images/button-youtube-link.png" height="40"/></a></td>
     </tr>
 </table>
 
-<!-- https://www.youtube.com/watch?v=s0IB95fIDi0&list=PLyCwPGjh8kDyaJAU0DlRoDBec972KXpEi -->
+<!--  -->
 
 # Share Google Drive with Custom Costume Files
 
