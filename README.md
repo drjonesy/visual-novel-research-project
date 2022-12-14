@@ -177,8 +177,8 @@ For the final challenge, you get into teams of two or more and create your own i
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
-        <td>Pre-Test <!-- [Pre-Test](https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link) --></td>
-        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
+        <td>Pre-Test</td>
+        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdaNUp4HReUQl8655oRvw61J5uSo5yzz_k2zlII7Two0Ovxvg/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow.png" height="15" /></td>
