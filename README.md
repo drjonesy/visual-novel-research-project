@@ -23,13 +23,13 @@ For the challenge, you will make it look like two sprites are talking to each ot
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
-        <td>Lesson 1 - Pre-Test</td>
-        <td>Closed</td>
+        <td>Pre-Test</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
-        <td>Lesson 1 - Post-Test</td>
-        <td>Closed</td>
+        <td>Post-Test</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
 </table>
 
@@ -69,13 +69,13 @@ In this challenge you will use the skills you've learned so far to build a bug c
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
-        <td>Lesson 2 - Pre-Test <!-- https://docs.google.com/forms/d/e/1FAIpQLSd7jefnro7MCVc4fACqgEK_HfS7tYNeIIgknAiiBSuVrP8Ygg/viewform?usp=share_link --></td>
-        <td>Closed</td>
+        <td>Pre-Test</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
-        <td>Lesson 2 - Post-Test <!-- https://docs.google.com/forms/d/e/1FAIpQLSezTXFnMepsgzASb8noEJLXm9dVyv3FGyOy-YvLgw27fNlOCA/viewform?usp=share_link --></td>
-        <td>Closed</td>
+        <td>Post-Test</td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
 </table>
 
@@ -176,14 +176,14 @@ For the final challenge, you get into teams of two or more and create your own i
 
 <table>
     <tr>
-        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Pre-Test</td>
         <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
     <tr>
-        <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
+        <td><img src="./images/checkbox-with-shadow-with-X.png" height="15" /></td>
         <td>Post-Test</td>
-        <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEWZqR9ixc0t7ZN4awRXDk3aKa5zUTZNFnf0d-X_HpCczu6Q/viewform?usp=share_link"><img src="./images/button-open-pointer.png" height="35" /></a></td>
+        <td><img src="./images/lock-bottom-shadow.png" height="35" /></td>
     </tr>
 </table>
 
