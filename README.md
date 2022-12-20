@@ -147,8 +147,8 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td><a href="https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf">Lesson 3 All Video Tutorials</a></td>
-        <td><img src="./images/button-youtube-link.png" height="40"/></td>
+        <td>Lesson 3 All Video Tutorials</td>
+        <td><a href="https://www.youtube.com/watch?v=oS4WiaM-AuI&list=PLyCwPGjh8kDx_bRz2j8xGrWUNWKsuNHVf"><img src="./images/button-youtube-link.png" height="40"/></a></td>
     </tr>
 </table>
 
