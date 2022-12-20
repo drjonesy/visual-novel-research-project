@@ -38,12 +38,12 @@ For the challenge, you will make it look like two sprites are talking to each ot
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Lesson Project</td>
+        <td>Lesson - Basic Interaction (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/RnoUpcvWz5P61wwiSE6zifnlrklaAVF3TQ4w7x9T-0g"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Conversation Challenge</td>
+        <td>Challenge - Conversation (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/M92bSuCazsBeuqMEeXbS34G12lG12ChNmrwZSw0YL4Q"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
 </table>
@@ -84,12 +84,12 @@ In this challenge you will use the skills you've learned so far to build a bug c
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>In-Class Lesson Project</td>
+        <td>Lesson - Changing Backgrounds (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/KmtzGod6D7sp3ccqGuwvFvovN-JJ7PgqowcfbZnF5Hs"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Challenge - The Bug Catcher</td>
+        <td>Challenge - The Bug Catcher (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/Fe_7R84hkN-Xu00TuW6d_a8LLK4t2QykHiDl47zlV0I"><img src="./images/button-open-pointer.png" height="40" /></a></td>
     </tr>
 </table>
@@ -131,12 +131,12 @@ In challenge 2, you will finish this lesson's project "A SEA STORY" by adding tw
 <table>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Project 1 - A SEA STORY - Completed</td>
+        <td>Lesson & Challenge 1 - A SEA STORY (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/GW1axYTroS2gGZ2qoSKc7z9m_y7Q1XzsP7SD5DE-nDk"><img src="./images/button-open-pointer.png" height="40"/></a></td>
     </tr>
     <tr>
         <td><img src="./images/checkbox-with-shadow-with-checkmark.png" height="15" /></td>
-        <td>Project 2 - The Bug Catcher - Using Functions - Completed</td>
+        <td>Challenge 2 - The Bug Catcher with Functions (Completed)</td>
         <td><a href="https://studio.code.org/projects/spritelab/8mj4cZB7E3O7wA7SBVCS3ZunDrUvtcrTtycRsn9VtiE"><img src="./images/button-open-pointer.png" height="40" /></a></td>
     </tr>
 
