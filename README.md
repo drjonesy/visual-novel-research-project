@@ -209,3 +209,5 @@ For lesson 4's in-class project we are going to take out a piece of paper and le
 To help with the heavy lifting of analyzing the data four separate python programs were created. Each of these programs were first created in Jupyter Notebooks using the <a href="https://www.anaconda.com/">Anaconda<a> Python envrionment. The main library used for manipulating the data is <a href="https://pandas.pydata.org/">pandas</a>. While the programs could have been combined into one application, it was deamed best to break up the content into separate files to confirm data analysis accuracy. This also made it easier to compare the differences between each processing phase. Python 3+ was used for this development.
 
 The programs are available in two formats. Jupyter Notebooks and Python. All program files and sample templates are available under the <a href="./python_apps/README.md">python_apps<a> directory.
+
+## <a href="./python_apps/README.md">>> View Python Apps</a>
